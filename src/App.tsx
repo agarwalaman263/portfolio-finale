@@ -8,7 +8,6 @@ import {
   Copy,
   Github,
   Linkedin,
-  Mail,
   Menu,
   ShieldCheck,
   Sparkles,
